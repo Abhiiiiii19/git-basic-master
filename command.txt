@@ -1,1 +1,8 @@
 git init - to initialise the  repository
+git remote add origin - connrct your local reposotory to remte repository
+git status - to check the status of the file to see if they are created / modified
+git diff - to see the changes made to the files
+git add filename - to add files to local git repo 
+git add . - to add multiple files to local repo
+git commit -am "added new files to reposotory" - this will commit all the changes made to files
+git push origin master
